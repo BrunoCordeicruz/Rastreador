@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crud de Veiculos</string>
+    <string name="txt_Marca">Marca:</string>
+    <string name="txt_modelo">Modelo:</string>
+    <string name="txt_placa">Placa</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="item_cadastrar">Cadastrar</string>
+    <string name="item_consulta">Consulta</string>
+    <string name="item_excluir">Excluir</string>
+    <string name="item_editar">Editar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="text_id">Id</string>
+    <string name="item_rastrear">Rastrear</string>
+</resources>

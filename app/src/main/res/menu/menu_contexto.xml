@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@android:drawable/ic_menu_delete"
+        android:onClick="excluir"
+        android:title="@string/item_excluir"
+        app:showAsAction="withText" />
+    <item
+        android:icon="@android:drawable/ic_menu_edit"
+        android:onClick="editar"
+        android:title="@string/item_editar"
+        app:showAsAction="withText" />
+    <item android:title="@string/item_rastrear" />
+</menu>
